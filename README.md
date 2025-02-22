@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">A passionate Financial Engineering and Machine Learning enthusiast</h3>
 
-- 📫 How to reach me: **ti2141@nyu.edu**
+- 📫 How to reach me: **ti2142@nyu.edu**
 
 - 🌱 I’m currently pursuing a **Master of Science in Financial Engineering at NYU Tandon School of Engineering**
 
