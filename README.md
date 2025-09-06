@@ -73,7 +73,7 @@
 <h3 align="left">Research and Projects:</h3>
 - 🔬 Developed a hybrid portfolio optimization model, achieving a Sharpe ratio of 2.52.<br>
 - 📊 Enhanced yield curve prediction using the Extended Nelson-Siegel framework.<br>
-- 🏠 Created an Automated Valuation Model for property price predictions, getting MAPE aroung 90% by 10% range .<br>
+- 🏠 Created an Automated Valuation Model for property price predictions, getting MAPE around 90% by 10% range .<br>
 
 <h3 align="left">Hobbies and Interests:</h3>
 - 🏓 Former Captain of Table Tennis Team, Coimbatore Institute of Technology.<br>
